@@ -3,65 +3,118 @@
     text-decoration: solid;
     text-align: center;
     background-color: 61805B;
+    
+}
+
+@font-face {
+    font-family: 'lmao';
+    src: url("scarbes/Scarbes.otf");
+    
 }
 
 #body 
 {
+    
+    font-family: 'lmao';
     margin: 10%;
-    background-color: DAD7CE;
+    background-color: #DAD7CE;
     text-align: center;
-    text-box: calc(align-self);
+    
     
 }
 
 
 #navbar a
 {
+    font-family: 'lmao';
+    width: auto;
     text-align: center;
-    background-color: 61805B;
-    text-decoration: solid;
-    background-color: A6B18E;
+    scale: 1%;
+    margin-trim: 10%;
     
+     
 }
+
 
 #photos_1
 {
-    scale: calc(40%);
-    text-align: left;
-    box-sizing: border-box;
-    text-size-adjust:(100);
+    font-family: 'lmao';
+    width: 100%;
+    text-align: center;
+    margin-left: auto;
     
+}
+#photos_1 img
+{
+width: 40%;
+margin-left: 0%;
+
 }
 
 #photos_2
 {
-    align-self: auto;
-    size: 40%
-    
+    font-family: 'lmao';
+    width: 100%;
+text-align: center;
+    margin-left: auto;
+
+}
+#photos_2 img
+{
+width: 40%;
+margin-left: 0%;
+
 }
 
 #photos_3
 {
-    size: 20%;
-    
-}
+    font-family: 'lmao';
+    width: 100%;
+text-align: center;
+    margin-left: auto;
 
+}
+#photos_3 img
+{
+width: 40%;
+margin-left: 0%;
+
+}
 #photos_4
 {
-    align-self: auto;
-    size: 0.8;
+    font-family: 'lmao';
+    width: 100%;
+text-align: center;
+    margin-left: auto;
+
+}
+#photos_4 img
+{
+width: 40%;
+margin-left: 0%;
+
 }
 
 #photos_5
 {
-    size: 0.8;
-    align-self: auto;
+    font-family: 'lmao';
+    width: 100%;
+text-align: center;
+    margin-left: auto;
+
 }
+#photos_5 img
+{
+width: 40%;
+margin-left: 0%;
+
+}
+
 
 #footer 
 {
-    align-self: auto;
+    font-family: 'lmao';
     background-color: 61805B;
-    
+    text-align: center;
     
 }
