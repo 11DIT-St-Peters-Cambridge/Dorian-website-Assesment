@@ -2,13 +2,13 @@
 {
     text-decoration: solid;
     text-align: center;
-    background-color: 61805B;
+    background-color: #A6B18E;
     
 }
 
 @font-face {
     font-family: 'lmao';
-    src: url("scarbes/Scarbes.otf");
+    src: url("steelfish.extra-bold.otf");
     
 }
 
@@ -27,13 +27,18 @@
 #navbar a
 {
     font-family: 'lmao';
-    width: auto;
+    width: 50%;
     text-align: center;
     scale: 1%;
-    margin-trim: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #A6B18E;
     
-     
+
 }
+
+     
+
 
 
 #photos_1
@@ -114,7 +119,7 @@ margin-left: 0%;
 #footer 
 {
     font-family: 'lmao';
-    background-color: 61805B;
+    background-color: #61805B;
     text-align: center;
     
 }
