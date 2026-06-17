@@ -31,4 +31,8 @@ form input{
 
 }
 
+@font-face {
+    font-family: 'lmao';
+    src: url("steelfish.extra-bold.otf");
     
+}

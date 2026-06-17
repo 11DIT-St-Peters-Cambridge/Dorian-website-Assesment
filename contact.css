@@ -1,15 +1,29 @@
 
-#navbar 
+#navbar
+{
+   font-family: 'lmao';
+    width: 100%;
+    text-align: center;
+    scale: 100%;
+    
+    background-color: #A6B18E;
+    font-size: 25PX;
+    color: black;
+
+}
+@font-face {
+    font-family: 'lmao';
+    src: url("steelfish.extra-bold.otf");
+    
+}
+
+#photos_1
 {
     font-family: 'lmao';
-    width: 50%;
+    width: 100%;
     text-align: center;
-    scale: 1%;
     margin-left: auto;
-    margin-right: auto;
-    background-color: #A6B18E;
-    font-size: 50PX;
-    color: black;
-    
-
+    scale: 50%;
+    border: 100px;
+    border-color: #A6B18E;
 }
