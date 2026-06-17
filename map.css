@@ -1,0 +1,34 @@
+@media screen and (max-width:  3000px){
+    body {
+        background-color: #DAD7CE;
+    }
+}
+
+@media screen and (max-width:  500px ){
+body{background-color: #DAD7CE;
+
+}
+form input{
+
+    font-size: 30px;
+}
+
+}
+
+
+#navbar a
+{
+    font-family: 'lmao';
+    width: 50%;
+    text-align: center;
+    scale: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #A6B18E;
+    font-size: 50PX;
+    color: black;
+    
+
+}
+
+    

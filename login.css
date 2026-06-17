@@ -8,9 +8,34 @@
 
 }
 
+#body
+{
+    background-color: #DAD7CE;
+}
+
+    
+
+
 #form
 {
     padding-top: 50px;
     text-align: center;
     padding: auto;
 }
+@media screen and (max-width:  1500px){
+    body {
+        background-color: #DAD7CE;
+    }
+}
+
+@media screen and (max-width:  500px ){
+body{background-color: #DAD7CE;
+
+}
+form input{
+
+    font-size: 30px;
+}
+
+}
+    
