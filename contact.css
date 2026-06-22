@@ -1,14 +1,17 @@
 
-#navbar
+#navbar a
 {
-   font-family: 'lmao';
-    width: 100%;
+    font-family: 'lmao';
+    width: 19%;
     text-align: center;
-    scale: 100%;
     
+    margin-left: auto;
+    margin-right: auto;
     background-color: #A6B18E;
     font-size: 25PX;
     color: black;
+    display: inline-block;
+    
 
 }
 @font-face {
@@ -16,6 +19,17 @@
     src: url("steelfish.extra-bold.otf");
     
 }
+#text
+{
+    scale: 80%;
+    text-align: center;
+}
+#contact 
+{
+    font-family: "lmao";
+    text-align: center;
+    
+} 
 
 #photos_1
 {
@@ -27,3 +41,20 @@
     border: 100px;
     border-color: #A6B18E;
 }
+@media screen and (max-width: 3000px){
+    body {
+        background-color: #DAD7CE;
+    }
+}
+
+@media screen and (max-width:  500px ){
+body{background-color: #DAD7CE;
+
+}
+form input{
+
+    font-size: 100x;
+}
+
+}
+    

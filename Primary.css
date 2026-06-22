@@ -10,6 +10,10 @@
     background-color: #A6B18E;
     
 }
+#header img
+{
+    width: 100%;
+}
 
 @font-face {
     font-family: 'lmao';
@@ -27,24 +31,28 @@
     
     
 }
-
+#navbar
+{
+    width: 100%;
+    text-align: center;
+}
 
 #navbar a
 {
     font-family: 'lmao';
-    width: 50%;
+    width: 19%;
     text-align: center;
-    scale: 1%;
+    
     margin-left: auto;
     margin-right: auto;
     background-color: #A6B18E;
     font-size: 25PX;
     color: black;
+    display: inline-block;
     
 
 }
 
-     
 
 
 
