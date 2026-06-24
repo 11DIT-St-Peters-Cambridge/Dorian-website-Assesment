@@ -4,7 +4,14 @@
 {
     background-color: #DAD7CE;
 }
-
+#contact
+{
+       font-family: 'lmao';
+     text-align: center;
+     scale: 300%;
+     margin-bottom: 50px;
+     margin-top: 40px;
+}
 #navbar a
 {
     font-family: 'lmao';
@@ -19,6 +26,11 @@
     display: inline-block;
     
 
+}
+@font-face {
+    font-family: 'lmao';
+    src: url("steelfish.extra-bold.otf");
+    
 }
 
 

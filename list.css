@@ -1,6 +1,10 @@
 #header
 {
-     font-family: 'lmao';
+        font-family: 'lmao';
+     text-align: center;
+     scale: 300%;
+     margin-bottom: 50px;
+     margin-top: 40px;
 }
 
 
@@ -34,5 +38,10 @@ form input{
     font-size: 100x;
 }
 
+}
+@font-face {
+    font-family: 'lmao';
+    src: url("steelfish.extra-bold.otf");
+    
 }
     

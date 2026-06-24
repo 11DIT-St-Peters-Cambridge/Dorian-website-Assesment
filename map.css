@@ -12,9 +12,22 @@ form input{
 
     font-size: 30px;
 }
-
+@font-face {
+    font-family: 'lmao';
+    src: url("steelfish.extra-bold.otf");
+    
 }
 
+
+}
+#header
+{
+        font-family: 'lmao';
+     text-align: center;
+     scale: 300%;
+     margin-bottom: 50px;
+     margin-top: 40px;
+}
 #navbar a
 {
     font-family: 'lmao';
