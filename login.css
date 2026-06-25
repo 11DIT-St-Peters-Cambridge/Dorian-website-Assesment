@@ -7,7 +7,10 @@
 #contact
 {
        font-family: 'lmao';
+        /*this font look is the most similar to my original font from the figma website*/
+
      text-align: center;
+     /*it looks better in the middle*/
      scale: 300%;
      margin-bottom: 50px;
      margin-top: 40px;
@@ -24,7 +27,7 @@
     font-size: 25PX;
     color: black;
     display: inline-block;
-    
+    /*the navbar is seperated into diffrent buttons to make it easier to press the buttons to go to diffrent pages */
 
 }
 @font-face {
@@ -39,10 +42,13 @@
     padding-top: 50px;
     text-align: center;
     padding: auto;
+    /*i made it bigger to make it easier to see*/    
 }
 @media screen and (max-width:  1500px){
     body {
         background-color: #DAD7CE;
+        /*the backround color is an offwhite to make the website more rustic */
+
     }
 }
 
